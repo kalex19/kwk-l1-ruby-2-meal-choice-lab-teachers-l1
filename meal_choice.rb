@@ -17,7 +17,11 @@ def dinner(food = "salmon")
   puts "Dinner time is the best time for #{food}!"
 end
 
-breakfast("pancakes")
+breakfast("pancakes").downcase
+lunch("peanut butter").downcase
+dinner("broccoli").downcase
+
+
 
 
 
