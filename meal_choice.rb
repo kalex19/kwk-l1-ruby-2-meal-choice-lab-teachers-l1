@@ -20,6 +20,9 @@ end
 breakfast("pancakes")
 lunch("peanut butter")
 dinner("broccoli")
+breakfast
+lunch
+dinner
 
 
 
