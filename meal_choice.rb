@@ -17,6 +17,8 @@ def dinner(food = "salmon")
   puts "Dinner time is the best time for #{food}!"
 end
 
+breakfast("peach")
+
 
 
 
